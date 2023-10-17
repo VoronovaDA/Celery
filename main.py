@@ -30,7 +30,6 @@ def create_upscale_task(image_bytes: bytes):
 
 
 def upscale_image():
-
     img_file = request.files["image"]
     image_bytes = img_file.stream.read()
 

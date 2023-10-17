@@ -3,7 +3,6 @@ from typing import Callable
 
 
 def singleton(fabric_function: Callable) -> Callable:
-
     singleton_obj = None
     ready = False
 
