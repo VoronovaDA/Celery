@@ -1,0 +1,9 @@
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+
+celery==5.2.7
+redis==4.4.0
+
+flask~=3.0.0
+numpy~=1.26.1
+tools~=0.1.9
